@@ -1,0 +1,2 @@
+gen_vocab:loop_closure
+-DCATKIN_DEVEL_PREFIX=/Users/xiangyuliu/Documents/LXYYY_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/Users/xiangyuliu/Documents/LXYYY_catkin_ws/install -G Unix Makefiles

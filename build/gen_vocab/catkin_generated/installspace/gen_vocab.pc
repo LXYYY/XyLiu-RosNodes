@@ -1,0 +1,8 @@
+prefix=/Users/xiangyuliu/Documents/LXYYY_catkin_ws/install
+
+Name: gen_vocab
+Description: Description of gen_vocab
+Version: 0.0.0
+Cflags: 
+Libs: -L/Users/xiangyuliu/Documents/LXYYY_catkin_ws/install/lib 
+Requires: 
